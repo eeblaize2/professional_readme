@@ -1,18 +1,54 @@
+
+# Professional ReadME Generator
+
+## Table of contents
+* [User-story](#user-story)
+* [Prerequisites](#Prerequisites)
+* [How-to-use](#how-to-use)
+* [Link-to-deployed-application](#link-to-deployed-application)
+* [Technologies](#technologies)
+* [Contributors](#contributors)
+* [Screenshot-to-deployed-application](#screenshot-to-deployed-application)
+* [License](#license)
+* [Possible-future-add-ons](#possible-future-add-ons)
+
+
+## User Story
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+
+
+## Prerequisites
+
+Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video and add it to the README of your project.
+
+
+## How to use
+1-Run node index.js
+2-Follow prompts to enter information
+3-Run preview of ReadMe 
+
+
+## Link to deployed application:
+[What's-the-Song?](https://harben31.github.io/project_1/)
+
+
+## Technologies
+Project is created with:
+* HTML 
+* Node
+* vanilla js
+* Package json
+* Inquirer js
+
+
+## Contributors:
+* [Erin](https://github.com/eeblaize2)
+
+## Video Link:
+[Video-Link](https://drive.google.com/file/d/1loba7EJejyoAXeCVgLfFWGUK11yVyo7x/view)
+
+
+## Screenshot to deployed application
+![ReadMe generator screenshot](https://user-images.githubusercontent.com/77705971/120571342-bc042680-c3ce-11eb-8a1a-3553bd8db2f6.PNG)

@@ -1,9 +1,9 @@
-# homework
+# ReadMe Homework
 
-![GPL_3.0](./images/GPL_3.0.png)
+![MIT](./images/MIT.png)
 
 ## Description
-adfadgafgaeraer
+creating a professional ReadMe generator
 
 ## Table of Contents
  - [Installation](#installation) 
@@ -17,13 +17,13 @@ adfadgafgaeraer
 npm i
 
 ## Usage
-nothing
+Enter information easily into the readme generator
 
 ## License
-[GPL_3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[MIT](https://mit-license.org/)
 
 ## Contributing
-gadfaerear
+choose the license you wish to use
 
 ## Tests
 npm test
@@ -31,4 +31,4 @@ npm test
 ## Questions
 eeblaize2
 [Github Profile](https://github.com/eeblaize2)
-abc.hotmail.com
+abc@hotmail.com
