@@ -1,7 +1,9 @@
 # homework
 
+![GPL_3.0](./images/GPL_3.0.png)
+
 ## Description
-asdfgadgas
+adfadgafgaeraer
 
 ## Table of Contents
  - [Installation](#installation) 
@@ -15,19 +17,18 @@ asdfgadgas
 npm i
 
 ## Usage
-nothign
+nothing
 
 ## License
-MIT
-undefined
+[GPL_3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contributing
-dasga
+gadfaerear
 
 ## Tests
-nmp test
+npm test
 
 ## Questions
-Erin
-[Github Profile](https://github.com/Erin)
-abc
+eeblaize2
+[Github Profile](https://github.com/eeblaize2)
+abc.hotmail.com
